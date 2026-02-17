@@ -1,7 +1,7 @@
 {
-    "name": "@GupongXyz/Baileys",
+    "name": "@Iannv1/Baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API Modification By GupongOfficial",
+    "description": "WhatsApp API Modification By Xboost",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -12,12 +12,12 @@
         "botwa",
         "stvnnvs"
     ],
-    "homepage": "https://github.com/GupongXyz/Baileys",
+    "homepage": "https://github.com/empiixboost/Baileys",
     "repository": {
-        "url": "https://github.com/GupongXyz/Baileys"
+        "url": "https://github.com/empiixboost/Baileys"
     },
     "license": "MIT",
-    "author": "GupongOfficial",
+    "author": "ryann",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
